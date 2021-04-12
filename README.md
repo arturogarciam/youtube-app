@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hello, this is an app tribute of youtube, it searches for a query, throws back the first 5 results and renders the video player with a listing of the 5 first videos related to the query.
 
 ## Available Scripts
 
